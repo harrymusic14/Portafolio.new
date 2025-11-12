@@ -48,7 +48,7 @@ export default function About() {
                 </div>
               </div>
               <a
-                href="../public/curriculum.harry.pdf"
+                href="/Curriculum.pdf"
                 download="Harry_Rodriguez_CV.pdf"
                 target="_blank"
                 className="flex items-center gap-2 px-6 py-3 bg-stone-800 text-white rounded-full hover:bg-stone-700 transition-all duration-300 transform hover:scale-105"
